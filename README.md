@@ -56,7 +56,7 @@ pip3 install openai
 2. Download the ZSH plugin.
 
 ```
-    $ git clone https://github.com/tom-doerr/zsh_codex.git ~/.oh-my-zsh/custom/plugins/zsh_codex 
+    $ git clone https://github.com/tzutalin/zsh_codex.git ~/.oh-my-zsh/custom/plugins/zsh_codex
 ```
 
 3. Add the following to your `.zshrc` file.
@@ -78,7 +78,7 @@ Without oh-my-zsh:
 
 ```
 [openai]
-organization_id = ...
+organization_id = Personal
 secret_key = ...
 ```
 
@@ -88,7 +88,7 @@ secret_key = ...
 
 <a href="https://fig.io/plugins/other/zsh_codex_tom-doerr" target="_blank"><img src="https://fig.io/badges/install-with-fig.svg" /></a>
 
-## Troubleshooting 
+## Troubleshooting
 
 ### Unhandled ZLE widget 'create_completion'
 
@@ -97,7 +97,7 @@ zsh-syntax-highlighting: unhandled ZLE widget 'create_completion'
 zsh-syntax-highlighting: (This is sometimes caused by doing `bindkey <keys> create_completion` without creating the 'create_completion' widget with `zle -N` or `zle -C`.)
 ```
 
-Add the line 
+Add the line
 ```
 zle -N create_completion
 ```
