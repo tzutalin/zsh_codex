@@ -84,10 +84,6 @@ secret_key = ...
 
 5. Run `zsh`, start typing and complete it using `^X`!
 
-### Fig Installation
-
-<a href="https://fig.io/plugins/other/zsh_codex_tom-doerr" target="_blank"><img src="https://fig.io/badges/install-with-fig.svg" /></a>
-
 ## Troubleshooting
 
 ### Unhandled ZLE widget 'create_completion'
@@ -113,7 +109,7 @@ git clone https://github.com/tom-doerr/zsh_codex.git ~/.oh-my-zsh/custom/plugins
 ```
 ---
 <p align="center">
-    <a href="https://www.buymeacoffee.com/TomDoerr" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+    <a href="https://ko-fi.com/tzutalin" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 </p>
 
 ## More usage examples
@@ -123,8 +119,3 @@ git clone https://github.com/tom-doerr/zsh_codex.git ~/.oh-my-zsh/custom/plugins
     </p>
 </p>
 
--------------------------------------------------------------------
-
-[Fish Version](https://github.com/tom-doerr/codex.fish)
-
-[Traffic Statistics](https://tom-doerr.github.io/github_repo_stats_data/tom-doerr/zsh_codex/latest-report/report.html)
